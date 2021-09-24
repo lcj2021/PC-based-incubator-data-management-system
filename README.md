@@ -3,3 +3,6 @@
 
 ## Host Program
 > Please install `pyinstaller` first, and then use command line `pyinstaller AppLcj.py --noconsole --hidden-import PySide2.QtXml` to package the whole program. The AppLcj.exe could be found in the `dist/AppLcj` directory. 
+
+## Postscript
+> This project scored 9 / 10 points in the final acceptance. 
